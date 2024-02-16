@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Guilherme.</h1>
+<h3 align="center">A passionate software developer.</h3>
 
-<!--
-**guilherme-r-n/guilherme-r-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Web Designer](https://encantolarenxovais.com.br/)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Java, C#, JavaScript, Python, Typescript, Spring Boot, .NET, React, HTML e CSS.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/guilherme-r-n](https://github.com/guilherme-r-n)
+
+- 📫 How to reach me **guilherme.rezende.n@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/guilherme-rezende-neres-944a16140/](https://www.linkedin.com/in/guilherme-rezende-neres-944a16140/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/guilherme-rezende-neres-944a16140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermerezendeneres" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-r-n&show_icons=true&theme=dark&locale=en&layout=compact" alt="guilherme-r-n" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-r-n&show_icons=true&theme=dark&locale=en" alt="guilherme-r-n" /></p>
