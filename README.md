@@ -16,7 +16,8 @@
 <a href="https://www.linkedin.com/in/guilherme-rezende-neres-944a16140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermerezendeneres" height="20" width="30" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-r-n&show_icons=true&theme=dark&locale=en&layout=compact" alt="guilherme-r-n" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-r-n&show_icons=true&theme=dark&locale=en" alt="guilherme-r-n" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-r-n&show_icons=true&theme=dark&locale=en&layout=compact" alt="guilherme-r-n" /></p>
+
