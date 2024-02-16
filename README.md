@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme.</h1>
-<h3 align="center">A passionate software developer.</h3>
+<h3 align="center">A passionate Software Developer.</h3>
 
 - 🔭 I’m currently working on [Web Designer](https://encantolarenxovais.com.br/)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/guilherme-rezende-neres-944a16140/](https://www.linkedin.com/in/guilherme-rezende-neres-944a16140/)
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/guilherme-rezende-neres-944a16140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermerezendeneres" height="30" width="40" /></a>
 </p>
