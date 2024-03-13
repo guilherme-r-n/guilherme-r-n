@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **guilherme.rezende.n@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/guilherme-rezende-neres-944a16140/](https://www.linkedin.com/in/guilherme-rezende-neres-944a16140/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/guilherme-rezende-neres](https://www.linkedin.com/in/guilherme-rezende-neres)
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
