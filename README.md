@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Web Designer](https://encantolarenxovais.com.br/)
 
-- 🌱 I’m currently learning **Java, C#, JavaScript, Python, Typescript, Spring Boot, .NET, React, HTML e CSS.**
+- 🌱 I’m currently learning **Java, JavaScript, Python, Typescript, Spring Boot, React, Angular, HTML e CSS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/guilherme-r-n](https://github.com/guilherme-r-n)
 
